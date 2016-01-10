@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\chian\onedrive\documents\cs projects\visual studio 2015\projects\guess my number\guess my number\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Guess My Number.vcxproj -> C:\Users\chian\OneDrive\Documents\CS Projects\Visual Studio 2015\Projects\Guess My Number\Debug\Guess My Number.exe
